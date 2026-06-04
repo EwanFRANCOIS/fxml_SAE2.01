@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Dossiers de compilation Maven
+target/
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Maven Wrapper (optionnel)
+# Si tu veux que tout le monde puisse utiliser le wrapper, NE PAS ignorer ces fichiers
+# .mvn/
+# mvnw
+# mvnw.cmd
